@@ -1,6 +1,6 @@
 # Predicting Content Decay for Proactive Refreshing
 
-**Author:** Koushal Karthik
+**Author:** Koushal Karthik Rao
 **Lane:** Refresh / Content Opportunity Scoring
 **Repo:** [mlflyrankkarthik](https://github.com/koushalkarthik15/mlflyrankkarthik)
 **Date:** September 2026
